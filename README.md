@@ -1,5 +1,7 @@
 # Vera Demberg — Publications
 
+Live preview: https://liujia-lst.github.io/vera-publications/
+
 A standalone publication page with topic filtering and a browser-based data editor. It uses plain HTML, CSS and JavaScript; the build uses Python 3's standard library.
 
 ## Current content
@@ -23,8 +25,6 @@ python3 scripts/build.py
 ```
 
 This validates all records, rebuilds `index.html` and the editor's initial data, and exports CSV templates. No package installation is needed. Open `index.html` and `editor.html` in a browser, or serve the folder with a local static server. Links use relative paths and work under a GitHub project-site subpath.
-
-`Publications_Preview.html` and `Publication_Editor.html` in the handoff archive are standalone snapshots for review. Rebuild the repository files for deployment; the standalone snapshots do not update themselves.
 
 ## GitHub Pages deployment
 
@@ -52,4 +52,4 @@ node --check assets/filters.js
 node --check assets/editor.js
 ```
 
-Source migration checks and script parsing passed in the delivery environment. Browser interaction and the GitHub Actions deployment require a hosted preview; they have not yet been run. There is no confirmed public deployment URL.
+Verified on 22 November 2026: source coverage (258 entries), schema and CSV round-trip checks, all ten topic counts, combined topics, reset and browser history. The live page fits 390 px mobile, 960 px and 1280 px desktop widths. The editor loads existing records and awards, rejects missing topics, creates a paper and a topic, exports a complete catalogue, and imports the original 258-entry catalogue again. No test record was published. Browser checks reported no console errors. GitHub Actions build and deployment both passed: https://github.com/liujia-lst/vera-publications/actions/runs/45069323621 .
