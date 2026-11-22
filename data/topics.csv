@@ -1,0 +1,11 @@
+﻿id,label,status
+llms,LLMs and Cognitive Modeling,Named in the meeting; scope to confirm
+discourse,Discourse,Named in the meeting
+reading,Psycholinguistic Reading,Named in the meeting; scope to confirm
+gestures,Gestures,Tag identifier in the email example
+multimodality,Multimodality,Tag identifier in the email example
+pragmatics,Pragmatics and Communication,Proposed addition
+generation,Language Generation,Proposed addition
+speech,Speech and Language,Proposed addition
+resources,Language Resources and Tools,Proposed addition
+other,Other,Fallback specified in the email
