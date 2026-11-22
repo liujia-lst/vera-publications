@@ -1,0 +1,563 @@
+{
+  "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+  "retrieved": "2026-11-22",
+  "count": 258,
+  "topic_status": "All assignments are proposed; the forwarded email contains examples but not the tagged HTML attachment.",
+  "issues": [
+    {
+      "id": "pub-001",
+      "title": "Unpredictable But Expected: Informativity Effects in Language Models",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-002",
+      "title": "Pragmatic Reasoning improves LLM Code Generation",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-003",
+      "title": "PragMatch: Separating Pragmatic Incongruity from Cross-Modal Mismatch in Large Vision–Language Models",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-004",
+      "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-005",
+      "title": "Generation-Step-Aware Framework for Cross-Modal Representation and Control in Multilingual Speech–Text Models",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-006",
+      "title": "Event predictability modulates production and comprehension of referring expressions",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-007",
+      "title": "Modeling working memory capacity in sentence processing with lossy-context surprisal",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-008",
+      "title": "Polarity and the speed of scalar implicature processing",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-046",
+      "title": "Language models that match reader experience are better predictors of reading times",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-052",
+      "title": "GestureCoach: Rehearsing for Engaging Talks with LLM-Driven Gesture Recommendations",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-104",
+      "title": "ChatGPT vs Human-authored Text: Insights into Controllable Text Summarization and Sentence Style Transfer",
+      "issues": [
+        "Malformed DOI URL normalized"
+      ]
+    },
+    {
+      "id": "pub-109",
+      "title": "Expert-adapted language models improve the fit to reading times",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-115",
+      "title": "Design Choices for Crowdsourcing Implicit Discourse Relations: Revealing the Biases introduced by Task Design",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-118",
+      "title": "Processing cost effects of atypicality inferences in a dual-task setup",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-119",
+      "title": "A systematic evaluation of factors affecting referring expression choice in passage completion tasks",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-136",
+      "title": "Informationally Redundant Utterances Elicit Pragmatic Inferences",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-150",
+      "title": "Time-Aware Ancient Chinese Text Translation and Inference",
+      "issues": [
+        "Venue absent from source"
+      ]
+    },
+    {
+      "id": "pub-154",
+      "title": "Semantic Predictability Facilitates Comprehension of Degraded Speech in a Graded Manner",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-155",
+      "title": "Mishearing as a Side Effect of Rational Language Comprehension in Noise",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-160",
+      "title": "Limits to the rational production of discourse connectives",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-161",
+      "title": "A bathtub by any other name: the reduction of german compounds in predictive contexts",
+      "issues": [
+        "Local or temporary URL omitted",
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-162",
+      "title": "Recognition of minimal pairs in (un)predictive sentence contexts in two types of noise",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-163",
+      "title": "The online processing of causal and concessive discourse connectives",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-169",
+      "title": "When Do We Leave Discourse Relations Underspecified? The Effect of Formality and Relation Type",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-174",
+      "title": "Modeling the interplay of rational production and comprehension of ambiguous connectives",
+      "issues": [
+        "Local or temporary URL omitted",
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-186",
+      "title": "Effects of aging and dual-task demands on the comprehension of less expected sentence continuations: Evidence from pupillometry",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-190",
+      "title": "The Index of Cognitive Activity as a measure of cognitive processing load in dual task settings",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-195",
+      "title": "Unifying dimensions in coherence relations: How various annotation frameworks are related",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-198",
+      "title": "Improving Variational Encoder-Decoders in Dialogue Generation",
+      "issues": [
+        "Local or temporary URL omitted"
+      ]
+    },
+    {
+      "id": "pub-209",
+      "title": "From OpenCCG to AI planning: Detecting infeasible edges in sentence generation",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-210",
+      "title": "Salience and attention in surprisal-based accounts of language processing",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-211",
+      "title": "The frequency of rapid pupil dilations as a measure of linguistic processing difficulty",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-212",
+      "title": "Search challenges in natural language generation with complex optimization objectives",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-213",
+      "title": "Information density and linguistic encoding (ideal)",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-214",
+      "title": "Event participant modelling with neural networks",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-215",
+      "title": "Annotating discourse relations in spoken language: A comparison of the PDTB and CCR frameworks",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-216",
+      "title": "Lingoturk: managing crowdsourced tasks for psycholinguistics",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-217",
+      "title": "Roleo: visualising thematic fit spaces on the web",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-218",
+      "title": "Improving event prediction by representing script participants",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-219",
+      "title": "Improving unsupervised vector-space thematic fit evaluation via role-filler prototype clustering",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-220",
+      "title": "Verb polysemy and frequency effects in thematic fit modeling",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-221",
+      "title": "Learning to predict script events from domain-specific text",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-222",
+      "title": "Semantically underinformative utterances trigger pragmatic inferences",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-223",
+      "title": "Towards flexible, small-domain surface generation: Combining data-driven and grammatical approaches",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-224",
+      "title": "Vector-space calculation of semantic surprisal for predicting word pronunciation duration",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-225",
+      "title": "Uniform information density at the level of discourse relations: Negation markers and discourse connective omission",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-226",
+      "title": "Combining unsupervised syntactic and semantic models of thematic fit",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-227",
+      "title": "Incremental semantic role labeling with tree adjoining grammar",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-228",
+      "title": "Incremental and predictive discourse processing based on causal and concessive discourse markers: ERP studies on German and English",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-229",
+      "title": "Incremental, predictive parsing with psycholinguistically motivated tree-adjoining grammar",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-230",
+      "title": "Measuring linguistically-induced cognitive load during driving using the contre task",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-231",
+      "title": "The semantic augmentation of a psycholinguistically-motivated syntactic formalism",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-232",
+      "title": "On the information conveyed by discourse markers",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-233",
+      "title": "Language and cognitive load in a dual task environment",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-234",
+      "title": "The index of cognitive activity as a measure of linguistic processing",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-235",
+      "title": "Pupillometry: the index of cognitive activity in a dual-task study",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-236",
+      "title": "Integration costs on auxiliaries? – a self-paced reading study using webexp",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-237",
+      "title": "Identifying predictive collocations",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-238",
+      "title": "The Time-course of Processing Discourse Connectives",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-239",
+      "title": "Measuring the strength of linguistic cues for discourse relations",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-240",
+      "title": "Implicitness of discourse relations",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-241",
+      "title": "Incremental neo-davidsonian semantic construction for tag",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-242",
+      "title": "Incremental derivations in ccg",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-243",
+      "title": "Syntactic surprisal affects spoken word duration in conversational contexts",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-244",
+      "title": "German and english treebanks and lexica for tree-adjoining grammars",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-245",
+      "title": "Linguistic cognitive load: implications for automotive uis",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-246",
+      "title": "A strategy for information presentation in spoken dialog systems",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-247",
+      "title": "A Broad-Coverage Model of Prediction in Human Sentence Processing",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-248",
+      "title": "Syntactic and semantic factors in processing difficulty: An integrated measure",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-249",
+      "title": "A computational model of prediction in human parsing: Unifying locality and surprisal effects",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-250",
+      "title": "Correcting the incorrect: Local coherence effects modeled with prior belief update",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-251",
+      "title": "A psycholinguistically motivated version of TAG",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-252",
+      "title": "Data from eye-tracking corpora as evidence for theories of syntactic processing complexity",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-253",
+      "title": "Syntactic complexity induces explicit grounding in the maptask corpus",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-254",
+      "title": "Eye-tracking evidence for integration cost effects in corpus data",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-255",
+      "title": "Phonological constraints and morphological preprocessing for grapheme-to-phoneme conversion",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-256",
+      "title": "A language-independent unsupervised model for morphological segmentation",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-257",
+      "title": "Information presentation in spoken dialogue systems",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    },
+    {
+      "id": "pub-258",
+      "title": "Tiger Annotationsschema",
+      "issues": [
+        "No stable paper URL in source"
+      ]
+    }
+  ]
+}
