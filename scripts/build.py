@@ -41,10 +41,11 @@ def build():
     if link['url'] not in seen and 'award' not in link['label'].lower():urls.append(link);seen.add(link['url'])
    links=''.join(f'<a href="{esc(a["url"])}">{esc(a["label"])}</a>' for a in urls)
    remark=f'<p class="remarks {"award" if "award" in p.get("remarks","").lower() else ""}">{esc(p["remarks"])}</p>' if p.get('remarks') else ''
-   items.append(f'<article class="publication" id="{esc(p["id"])}" data-topics="{esc(" ".join(p["topics"]))}"><h3>{title}</h3><p class="authors">{esc(p["authors"])}</p><p class="venue">{esc(p["venue"])}</p>{remark}<div class="paper-bottom"><div class="paper-topics">{badges}</div><div class="paper-links">{links}</div></div></article>')
+   items.append(f'<article class="publication" id="{esc(p["id"])}" data-year="{year}" data-topics="{esc(" ".join(p["topics"]))}"><h3>{title}</h3><p class="authors">{esc(p["authors"])}</p><p class="venue">{esc(p["venue"])}</p>{remark}<div class="paper-bottom"><div class="paper-topics">{badges}</div><div class="paper-links">{links}</div></div></article>')
   sections.append(f'<section class="year-section" aria-labelledby="year-{year}"><div class="year-heading"><h2 id="year-{year}">{year}</h2><span>{len(subset)} publications</span></div>{"".join(items)}</section>')
  template=(ROOT/'templates/index.html').read_text()
- for key,value in {'FILTERS':filters,'PUBLICATIONS':''.join(sections),'COUNT':str(len(pubs)),'YEARS':f'{min(p["year"] for p in pubs)}–{max(p["year"] for p in pubs)}'}.items():template=template.replace('{{'+key+'}}',value)
+ year_options=''.join(f'<option value="{year}">{year}</option>' for year in sorted({p['year'] for p in pubs},reverse=True))
+ for key,value in {'FILTERS':filters,'PUBLICATIONS':''.join(sections),'COUNT':str(len(pubs)),'YEAR_OPTIONS':year_options}.items():template=template.replace('{{'+key+'}}',value)
  (ROOT/'index.html').write_text(template)
  # One common data file for the offline-capable form; no fetch or hosted account needed.
  (ROOT/'assets/editor-data.js').write_text('window.publicationData = '+json.dumps({'publications':pubs,'topics':topics},ensure_ascii=False).replace('<','\\u003c')+';\n')
