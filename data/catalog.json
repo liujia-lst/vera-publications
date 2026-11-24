@@ -2709,7 +2709,8 @@
       "paper_url": "https://doi.org/10.21437/Interspeech.2023-466",
       "remarks": "",
       "topics": [
-        "other"
+        "generation",
+        "resources"
       ],
       "links": [
         {
@@ -5440,7 +5441,7 @@
       "paper_url": "",
       "remarks": "",
       "topics": [
-        "other"
+        "speech"
       ],
       "links": [],
       "topic_status": "proposed",
@@ -5489,7 +5490,7 @@
       "paper_url": "",
       "remarks": "",
       "topics": [
-        "other"
+        "speech"
       ],
       "links": [],
       "topic_status": "proposed",
@@ -5521,8 +5522,7 @@
       "paper_url": "",
       "remarks": "",
       "topics": [
-        "reading",
-        "other"
+        "speech"
       ],
       "links": [],
       "topic_status": "proposed",
@@ -5688,7 +5688,7 @@
       "paper_url": "",
       "remarks": "",
       "topics": [
-        "other"
+        "speech"
       ],
       "links": [],
       "topic_status": "proposed",
