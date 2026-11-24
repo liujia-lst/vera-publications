@@ -13,7 +13,7 @@
 <main class="wrap">
 <div class="page-heading"><h1>Publications</h1><div class="year-filter"><label class="sr-only" for="year-filter">Publication year</label><select id="year-filter"><option value="">All years</option>{{YEAR_OPTIONS}}</select></div></div>
 <div class="layout">
-<aside class="topic-panel" aria-label="Publication topics"><div class="topic-panel-inner"><h2>By topic</h2><button id="clear-topics" type="button" aria-pressed="true">All publications <span>{{COUNT}}</span></button><fieldset><legend class="sr-only">Research topics</legend>{{FILTERS}}</fieldset></div></aside>
+<aside class="topic-panel" aria-label="Publication filters"><div class="topic-panel-inner"><h2>By topic</h2><button id="clear-topics" type="button" aria-pressed="true">All publications</button><fieldset><legend class="sr-only">Research topics</legend>{{FILTERS}}</fieldset><h2 class="type-heading">By type</h2><fieldset><legend class="sr-only">Publication types</legend>{{TYPE_FILTERS}}</fieldset></div></aside>
 <div id="results" tabindex="-1"><div class="results-heading"><p id="result-count" role="status" aria-live="polite">{{COUNT}} publications</p></div><noscript><p>Enable JavaScript to filter publications.</p></noscript><p id="empty-state" hidden>No matching publications.</p>{{PUBLICATIONS}}</div>
 </div>
 </main>
