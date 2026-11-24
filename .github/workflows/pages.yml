@@ -22,11 +22,10 @@ jobs:
         run: python scripts/build.py
       - name: Assemble public files
         run: |
-          mkdir -p _site/data _site/docs
+          mkdir -p _site/data
           cp index.html editor.html .nojekyll robots.txt _site/
           cp -r assets _site/
           cp data/catalog.json _site/data/
-          cp docs/Maintenance_Options.html _site/docs/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
