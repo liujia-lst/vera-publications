@@ -3,6 +3,13 @@
   const clone = x => JSON.parse(JSON.stringify(x));
   let catalog = clone(window.publicationData), editing = '';
   const key = 'demberg-publications-draft-v1';
+  const publicationTypes = new Set(['journal','conference','workshop','preprint','other']);
+  function normalize(data) {
+    if (Array.isArray(data?.publications)) data.publications.forEach(p => {
+      if (p && !p.publication_type) p.publication_type = window.publicationData.publications.find(current => current.id === p.id)?.publication_type || 'other';
+    });
+    return data;
+  }
   const form = document.querySelector('#paper-form');
   const chooser = document.querySelector('#paper-select');
   const status = document.querySelector('#editor-status');
@@ -16,6 +23,7 @@
       new Set(data.publications.map(p => p.id)).size === data.publications.length && data.publications.every(p =>
         /^[a-zA-Z0-9-]+$/.test(p.id) && ['title','authors','venue'].every(k => typeof p[k] === 'string' && p[k].trim()) &&
         Number.isInteger(p.year) && p.year >= 1900 && p.year <= 2100 && Array.isArray(p.topics) && p.topics.length && p.topics.every(t => ids.has(t)) && validURL(p.paper_url) &&
+        publicationTypes.has(p.publication_type) &&
         (!p.links || (Array.isArray(p.links) && p.links.every(a => typeof a.label === 'string' && validURL(a.url)))));
   }
   function persist(message) {
@@ -37,11 +45,11 @@
   }
   function load(id) {
     editing = id; form.reset(); const paper = catalog.publications.find(p => p.id === id);
-    for (const field of ['title','authors','venue','year','paper_url','remarks']) form.elements.namedItem(field).value = paper ? (paper[field] || '') : field === 'year' ? new Date().getFullYear() : '';
+    for (const field of ['title','authors','venue','year','publication_type','paper_url','remarks']) form.elements.namedItem(field).value = paper ? (paper[field] || '') : field === 'year' ? new Date().getFullYear() : '';
     topicInputs(paper?.topics || []); choices(); dirty = false;
   }
   function maySwitch() { return !dirty || confirm('Discard the changes currently in the form? Saved drafts will remain.'); }
-  try { const saved = JSON.parse(localStorage.getItem(key)); if (valid(saved)) { catalog = saved; say('Your previous browser draft has been restored. Open a current catalog.json to replace it.'); } } catch { /* File-mode storage may be unavailable. */ }
+  try { const saved = normalize(JSON.parse(localStorage.getItem(key))); if (valid(saved)) { catalog = saved; say('Your previous browser draft has been restored. Open a current catalog.json to replace it.'); } } catch { /* File-mode storage may be unavailable. */ }
   load('');
   form.addEventListener('input', () => { dirty = true; });
   chooser.addEventListener('change', () => { const id = chooser.value; if(maySwitch()) load(id); else chooser.value = editing; });
@@ -63,7 +71,8 @@
     const old = catalog.publications.find(p=>p.id===editing);
     let id=editing || 'pub-'+Date.now().toString(36);while(!old && catalog.publications.some(p=>p.id===id)) id+='x';
     const paper = {...old,id,year:Number(data.get('year')),topics:tags,topic_status:'editor-reviewed'};
-    for (const field of ['title','authors','venue','paper_url','remarks']) paper[field] = String(data.get(field)||'').trim();
+    for (const field of ['title','authors','venue','publication_type','paper_url','remarks']) paper[field] = String(data.get(field)||'').trim();
+    if (!publicationTypes.has(paper.publication_type)) { say('Select a publication type.',true);return; }
     if (!validURL(paper.paper_url)) { say('Use an http:// or https:// paper URL.',true);return; }
     if (old) catalog.publications[catalog.publications.findIndex(p=>p.id===id)] = paper; else catalog.publications.push(paper);
     dirty=false;editing=id;choices();persist(`Saved to your browser draft. ${catalog.publications.length} publications. Download the updated data to publish.`);
@@ -79,7 +88,7 @@
     const input=event.target, file=input.files[0];if(!file)return;
     try {
       if (!maySwitch()) return;
-      const parsed=JSON.parse(await file.text());if(!valid(parsed))throw new Error('Invalid collection');
+      const parsed=normalize(JSON.parse(await file.text()));if(!valid(parsed))throw new Error('Invalid collection');
       catalog=parsed;load('');persist(`Opened ${catalog.publications.length} publications and ${catalog.topics.length} topics.`);
     } catch { say('Could not open this file. Choose a valid catalog.json exported by this editor.',true); }
     finally { input.value=''; }
