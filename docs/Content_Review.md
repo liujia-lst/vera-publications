@@ -29,7 +29,8 @@ Counts overlap because papers can have several topics. Proposed additions separa
 
 - Preserved all titles, author order and source year grouping; split the four entries where the source joined authors and venue on one line.
 - Added the missing venue for “Time-Aware Ancient Chinese Text Translation and Inference” from its ACL Anthology record.
-- Added 28 missing URLs by exact normalized-title matching against Vera’s ACL Anthology author page, one from the eScholarship record for the bathtub paper, and used the existing GestureCoach project URL.
+- Added 28 missing URLs by exact normalized-title matching against Vera’s ACL Anthology author page, one from the eScholarship record for the bathtub paper, and linked GestureCoach to the author PDF provided on its project page.
+- Corrected the Visual Coherence Loss paper link to its matching RepL4NLP record.
 - Normalized one malformed DOI URL. Local computer links and signed temporary PDF URLs are excluded; stable links from the same source record are preferred.
 - Best Paper / Best Demo / Honorable Mention notes retain their original venue qualifiers.
 - The import audit records original-source problems. Some were resolved during enrichment; the list below is the remaining missing-link list.

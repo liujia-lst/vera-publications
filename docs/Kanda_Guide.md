@@ -4,7 +4,7 @@ This guide covers the browser-form option. The team can choose a different workf
 
 1. Open **Publication editor**. To start from the latest shared data, download `data/catalog.json` from the repository and use **Open catalog.json**. A previous draft restored by your browser may be older than the shared copy.
 2. Select **Add publication**, or choose an existing paper from the list.
-3. Enter the title, complete author list, year, venue and paper webpage. The webpage may be blank if no public link is available yet. Use **Additional remarks** for awards or other notes.
+3. Enter the title, complete author list, year, venue, publication type and paper webpage. The webpage may be blank if no public link is available yet. Use **Additional remarks** for awards or other notes.
 4. Select one or more topics. To create a topic, enter its name under **New topic name** and click **Add topic**. It becomes available immediately; no HTML edit is needed.
 5. Click **Save to draft**. This only saves on your computer.
 6. Click **Download updated data**. The download is called `catalog.json` and contains the entire collection.

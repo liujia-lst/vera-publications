@@ -30,6 +30,7 @@ def import_catalog(publication_rows,topic_rows,existing):
   try: tags=list(dict.fromkeys(lookup[t.casefold()] for t in raw_tags))
   except KeyError as e:raise ValueError(f'Row {row_index}: unknown topic {e.args[0]!r}; add it to the topics sheet first')
   p={**old.get(ident,{}),'id':ident,'year':year,'topics':tags,'topic_status':(r.get('topic_status') or 'spreadsheet-entry').strip()}
+  p['publication_type']=(r.get('publication_type') or old.get(ident,{}).get('publication_type','')).strip().lower()
   for k in ['title','authors','venue','paper_url','remarks']:p[k]=(r.get(k) or '').strip()
   pubs.append(p)
  validate(pubs,topics)

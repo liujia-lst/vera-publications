@@ -14,7 +14,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 0,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-002",
@@ -32,7 +33,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 1,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-003",
@@ -50,7 +52,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 2,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-004",
@@ -66,7 +69,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 3,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-005",
@@ -85,7 +89,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 4,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-006",
@@ -108,7 +113,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 5,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-007",
@@ -130,7 +136,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 6,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-008",
@@ -146,7 +153,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 7,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-009",
@@ -168,7 +176,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 8,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-010",
@@ -194,7 +203,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 9,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-011",
@@ -221,7 +231,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 10,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-012",
@@ -252,7 +263,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 11,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-013",
@@ -277,7 +289,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 12,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-014",
@@ -303,7 +316,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 13,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-015",
@@ -328,7 +342,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 14,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-016",
@@ -354,7 +369,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 15,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-017",
@@ -380,7 +396,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 16,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-018",
@@ -407,7 +424,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 17,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-019",
@@ -433,7 +451,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 18,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-020",
@@ -459,7 +478,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 19,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-021",
@@ -485,7 +505,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 20,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-022",
@@ -510,7 +531,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 21,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-023",
@@ -536,7 +558,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 22,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-024",
@@ -557,7 +580,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 23,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-025",
@@ -579,7 +603,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 24,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-026",
@@ -610,7 +635,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 25,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-027",
@@ -636,7 +662,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 26,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-028",
@@ -663,7 +690,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 27,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-029",
@@ -685,7 +713,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 28,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-030",
@@ -711,7 +740,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 29,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-031",
@@ -737,7 +767,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 30,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-032",
@@ -766,7 +797,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 31,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-033",
@@ -792,7 +824,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 32,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-034",
@@ -818,7 +851,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 33,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-035",
@@ -845,7 +879,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 34,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-036",
@@ -872,7 +907,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 35,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-037",
@@ -894,7 +930,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 36,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-038",
@@ -919,7 +956,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 37,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-039",
@@ -949,7 +987,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 38,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-040",
@@ -977,7 +1016,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 39,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-041",
@@ -1003,7 +1043,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 40,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-042",
@@ -1029,7 +1070,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 41,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-043",
@@ -1054,7 +1096,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 42,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-044",
@@ -1080,7 +1123,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 43,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-045",
@@ -1105,7 +1149,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 44,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-046",
@@ -1127,7 +1172,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 45,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-047",
@@ -1153,7 +1199,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 46,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-048",
@@ -1179,7 +1226,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 47,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-049",
@@ -1200,7 +1248,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 48,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-050",
@@ -1225,7 +1274,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 49,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-051",
@@ -1251,7 +1301,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 50,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-052",
@@ -1259,7 +1310,7 @@
       "title": "GestureCoach: Rehearsing for Engaging Talks with LLM-Driven Gesture Recommendations",
       "authors": "Ashwin Ram, Varsha Suresh, Artin Saberpour Abadian, Vera Demberg, and Jürgen Steimle",
       "venue": "In ACM Symposium on User Interface Software and Technology (UIST ’25), 2025.",
-      "paper_url": "https://hci.cs.uni-saarland.de/projects/gesturecoach/",
+      "paper_url": "https://hci.cs.uni-saarland.de/wp-content/uploads/projects/ai/camera_ready.pdf",
       "remarks": "",
       "topics": [
         "gestures",
@@ -1268,7 +1319,7 @@
       ],
       "links": [
         {
-          "label": "Project",
+          "label": "PDF",
           "url": "https://hci.cs.uni-saarland.de/wp-content/uploads/projects/ai/camera_ready.pdf"
         },
         {
@@ -1278,7 +1329,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 51,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-053",
@@ -1305,7 +1357,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 52,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-054",
@@ -1331,7 +1384,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 53,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-055",
@@ -1358,7 +1412,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 54,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-056",
@@ -1383,7 +1438,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 55,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-057",
@@ -1409,7 +1465,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 56,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-058",
@@ -1435,7 +1492,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 57,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-059",
@@ -1462,7 +1520,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 58,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-060",
@@ -1489,7 +1548,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 59,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-061",
@@ -1518,7 +1578,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 60,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-062",
@@ -1546,7 +1607,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 61,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-063",
@@ -1571,7 +1633,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 62,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-064",
@@ -1596,7 +1659,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 63,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-065",
@@ -1626,7 +1690,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 64,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-066",
@@ -1652,7 +1717,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 65,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-067",
@@ -1677,7 +1743,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 66,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-068",
@@ -1703,7 +1770,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 67,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-069",
@@ -1728,7 +1796,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 68,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-070",
@@ -1754,7 +1823,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 69,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-071",
@@ -1779,7 +1849,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 70,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-072",
@@ -1806,7 +1877,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 71,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-073",
@@ -1831,7 +1903,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 72,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-074",
@@ -1857,7 +1930,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 73,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-075",
@@ -1878,7 +1952,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 74,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-076",
@@ -1903,7 +1978,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 75,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-077",
@@ -1930,7 +2006,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 76,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-078",
@@ -1956,7 +2033,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 77,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-079",
@@ -1982,7 +2060,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 78,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-080",
@@ -2008,7 +2087,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 79,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-081",
@@ -2033,7 +2113,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 80,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-082",
@@ -2058,7 +2139,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 81,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-083",
@@ -2084,7 +2166,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 82,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-084",
@@ -2110,7 +2193,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 83,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-085",
@@ -2136,7 +2220,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 84,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-086",
@@ -2163,7 +2248,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 85,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-087",
@@ -2189,7 +2275,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 86,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-088",
@@ -2216,7 +2303,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 87,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-089",
@@ -2243,7 +2331,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 88,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-090",
@@ -2269,7 +2358,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 89,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-091",
@@ -2295,7 +2385,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 90,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-092",
@@ -2321,7 +2412,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 91,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-093",
@@ -2347,7 +2439,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 92,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-094",
@@ -2373,7 +2466,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 93,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-095",
@@ -2400,7 +2494,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 94,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-096",
@@ -2425,7 +2520,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 95,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-097",
@@ -2451,7 +2547,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 96,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-098",
@@ -2476,7 +2573,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 97,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-099",
@@ -2501,7 +2599,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 98,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-100",
@@ -2526,7 +2625,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 99,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-101",
@@ -2548,7 +2648,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 100,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-102",
@@ -2573,7 +2674,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 101,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-103",
@@ -2600,7 +2702,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 102,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-104",
@@ -2626,7 +2729,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 103,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-105",
@@ -2651,7 +2755,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 104,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-106",
@@ -2672,7 +2777,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 105,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-107",
@@ -2680,7 +2786,7 @@
       "title": "Visual Coherence Loss for Coherent and Visually Grounded Story Generation",
       "authors": "Xudong Hong, Vera Demberg, Asad Sayeed, Qiankun Zheng, and Bernt Schiele.",
       "venue": "In Proceedings of the 8th Workshop on Representation Learning for NLP (RepL4NLP 2023), pages 334–346, Toronto, Canada. ACL.",
-      "paper_url": "https://aclanthology.org/2023.findings-acl.603/",
+      "paper_url": "https://aclanthology.org/2023.repl4nlp-1.27/",
       "remarks": "",
       "topics": [
         "multimodality",
@@ -2693,12 +2799,13 @@
         },
         {
           "label": "Paper",
-          "url": "https://aclanthology.org/2023.findings-acl.603/"
+          "url": "https://aclanthology.org/2023.repl4nlp-1.27/"
         }
       ],
       "topic_status": "proposed",
       "source_index": 106,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-108",
@@ -2724,7 +2831,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 107,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-109",
@@ -2746,7 +2854,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 108,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-110",
@@ -2772,7 +2881,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 109,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-111",
@@ -2793,7 +2903,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 110,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-112",
@@ -2819,7 +2930,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 111,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-113",
@@ -2840,7 +2952,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 112,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-114",
@@ -2865,7 +2978,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 113,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-115",
@@ -2887,7 +3001,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 114,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-116",
@@ -2914,7 +3029,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 115,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-117",
@@ -2935,7 +3051,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 116,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "other"
     },
     {
       "id": "pub-118",
@@ -2956,7 +3073,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 117,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-119",
@@ -2977,7 +3095,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 118,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-120",
@@ -3003,7 +3122,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 119,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-121",
@@ -3028,7 +3148,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 120,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-122",
@@ -3053,7 +3174,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 121,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-123",
@@ -3061,7 +3183,7 @@
       "title": "Pragmatic comprehension in individuals is stable across time and some tasks",
       "authors": "Margarita Ryzhova, Jia Loy, and Vera Demberg.",
       "venue": "In Frau, F., Bischetti, L., Pompei, C., Scalingi, B., Domaneschi, F., & Bambini, V. (eds.), Book of Abstracts - XPRAG 2022.",
-      "paper_url": "https://doi.org/10.17605/OSF.IO/C4KP2",
+      "paper_url": "https://osf.io/k3nc6",
       "remarks": "",
       "topics": [
         "pragmatics"
@@ -3078,7 +3200,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 122,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "preprint"
     },
     {
       "id": "pub-124",
@@ -3086,7 +3209,7 @@
       "title": "Right for the Wrong Reason? On the importance of eliciting participants' reasoning",
       "authors": "Alexandra Mayn and Vera Demberg.",
       "venue": "In Frau, F., Bischetti, L., Pompei, C., Scalingi, B., Domaneschi, F., & Bambini, V. (eds.), Book of Abstracts - XPRAG 2022.",
-      "paper_url": "https://doi.org/10.17605/OSF.IO/C4KP2",
+      "paper_url": "https://osf.io/um72y",
       "remarks": "",
       "topics": [
         "pragmatics"
@@ -3103,7 +3226,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 123,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "preprint"
     },
     {
       "id": "pub-125",
@@ -3128,7 +3252,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 124,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-126",
@@ -3153,7 +3278,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 125,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-127",
@@ -3179,7 +3305,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 126,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-128",
@@ -3205,7 +3332,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 127,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-129",
@@ -3230,7 +3358,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 128,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-130",
@@ -3255,7 +3384,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 129,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-131",
@@ -3280,7 +3410,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 130,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-132",
@@ -3305,7 +3436,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 131,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-133",
@@ -3326,7 +3458,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 132,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-134",
@@ -3351,7 +3484,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 133,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-135",
@@ -3377,7 +3511,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 134,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-136",
@@ -3398,7 +3533,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 135,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-137",
@@ -3424,7 +3560,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 136,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-138",
@@ -3449,7 +3586,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 137,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-139",
@@ -3475,7 +3613,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 138,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-140",
@@ -3500,7 +3639,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 139,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-141",
@@ -3522,7 +3662,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 140,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-142",
@@ -3548,7 +3689,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 141,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-143",
@@ -3574,7 +3716,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 142,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-144",
@@ -3601,7 +3744,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 143,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-145",
@@ -3626,7 +3770,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 144,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-146",
@@ -3647,7 +3792,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 145,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-147",
@@ -3673,7 +3819,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 146,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-148",
@@ -3699,7 +3846,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 147,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-149",
@@ -3725,7 +3873,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 148,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-150",
@@ -3746,7 +3895,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 149,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-151",
@@ -3772,7 +3922,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 150,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-152",
@@ -3793,7 +3944,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 151,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-153",
@@ -3815,7 +3967,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 152,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-154",
@@ -3836,7 +3989,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 153,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-155",
@@ -3857,7 +4011,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 154,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-156",
@@ -3883,7 +4038,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 155,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-157",
@@ -3908,7 +4064,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 156,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-158",
@@ -3929,7 +4086,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 157,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-159",
@@ -3954,7 +4112,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 158,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-160",
@@ -3976,7 +4135,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 159,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-161",
@@ -3993,7 +4153,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 160,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-162",
@@ -4014,7 +4175,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 161,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-163",
@@ -4036,7 +4198,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 162,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-164",
@@ -4057,7 +4220,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 163,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-165",
@@ -4078,7 +4242,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 164,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-166",
@@ -4099,7 +4264,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 165,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-167",
@@ -4120,7 +4286,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 166,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-168",
@@ -4141,7 +4308,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 167,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-169",
@@ -4162,7 +4330,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 168,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-170",
@@ -4184,7 +4353,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 169,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-171",
@@ -4210,7 +4380,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 170,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-172",
@@ -4235,7 +4406,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 171,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-173",
@@ -4262,7 +4434,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 172,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-174",
@@ -4280,7 +4453,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 173,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-175",
@@ -4305,7 +4479,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 174,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-176",
@@ -4326,7 +4501,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 175,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-177",
@@ -4351,7 +4527,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 176,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-178",
@@ -4377,7 +4554,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 177,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-179",
@@ -4402,7 +4580,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 178,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-180",
@@ -4427,7 +4606,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 179,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-181",
@@ -4453,7 +4633,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 180,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-182",
@@ -4475,7 +4656,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 181,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-183",
@@ -4501,7 +4683,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 182,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-184",
@@ -4526,7 +4709,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 183,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-185",
@@ -4552,7 +4736,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 184,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-186",
@@ -4573,7 +4758,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 185,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-187",
@@ -4595,7 +4781,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 186,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "other"
     },
     {
       "id": "pub-188",
@@ -4621,7 +4808,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 187,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-189",
@@ -4646,7 +4834,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 188,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-190",
@@ -4667,7 +4856,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 189,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-191",
@@ -4692,7 +4882,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 190,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-192",
@@ -4718,7 +4909,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 191,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-193",
@@ -4744,7 +4936,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 192,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-194",
@@ -4770,7 +4963,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 193,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-195",
@@ -4792,7 +4986,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 194,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-196",
@@ -4818,7 +5013,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 195,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-197",
@@ -4844,7 +5040,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 196,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-198",
@@ -4865,7 +5062,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 197,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-199",
@@ -4886,7 +5084,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 198,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-200",
@@ -4909,7 +5108,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 199,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-201",
@@ -4931,7 +5131,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 200,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-202",
@@ -4952,7 +5153,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 201,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-203",
@@ -4974,7 +5176,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 202,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-204",
@@ -4996,7 +5199,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 203,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-205",
@@ -5018,7 +5222,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 204,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-206",
@@ -5039,7 +5244,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 205,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-207",
@@ -5060,7 +5266,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 206,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-208",
@@ -5081,7 +5288,8 @@
       ],
       "topic_status": "proposed",
       "source_index": 207,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-209",
@@ -5097,7 +5305,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 208,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-210",
@@ -5114,7 +5323,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 209,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-211",
@@ -5130,7 +5340,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 210,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-212",
@@ -5146,7 +5357,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 211,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-213",
@@ -5163,7 +5375,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 212,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-214",
@@ -5180,7 +5393,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 213,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-215",
@@ -5197,7 +5411,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 214,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-216",
@@ -5213,7 +5428,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 215,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-217",
@@ -5230,7 +5446,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 216,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-218",
@@ -5247,7 +5464,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 217,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-219",
@@ -5264,7 +5482,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 218,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-220",
@@ -5281,7 +5500,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 219,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-221",
@@ -5298,7 +5518,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 220,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-222",
@@ -5314,7 +5535,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 221,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-223",
@@ -5330,7 +5552,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 222,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-224",
@@ -5347,7 +5570,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 223,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-225",
@@ -5363,7 +5587,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 224,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-226",
@@ -5380,7 +5605,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 225,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-227",
@@ -5397,7 +5623,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 226,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-228",
@@ -5413,7 +5640,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 227,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-229",
@@ -5430,7 +5658,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 228,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-230",
@@ -5446,7 +5675,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 229,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-231",
@@ -5463,7 +5693,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 230,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-232",
@@ -5479,7 +5710,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 231,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-233",
@@ -5495,7 +5727,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 232,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-234",
@@ -5511,7 +5744,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 233,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-235",
@@ -5527,7 +5761,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 234,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-236",
@@ -5543,7 +5778,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 235,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-237",
@@ -5560,7 +5796,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 236,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-238",
@@ -5577,7 +5814,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 237,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-239",
@@ -5593,7 +5831,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 238,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-240",
@@ -5609,7 +5848,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 239,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-241",
@@ -5626,7 +5866,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 240,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-242",
@@ -5643,7 +5884,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 241,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-243",
@@ -5660,7 +5902,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 242,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-244",
@@ -5677,7 +5920,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 243,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-245",
@@ -5693,7 +5937,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 244,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-246",
@@ -5710,7 +5955,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 245,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-247",
@@ -5727,7 +5973,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 246,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "other"
     },
     {
       "id": "pub-248",
@@ -5744,7 +5991,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 247,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-249",
@@ -5761,7 +6009,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 248,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-250",
@@ -5778,7 +6027,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 249,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-251",
@@ -5795,7 +6045,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 250,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "workshop"
     },
     {
       "id": "pub-252",
@@ -5811,7 +6062,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 251,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "journal"
     },
     {
       "id": "pub-253",
@@ -5828,7 +6080,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 252,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-254",
@@ -5844,7 +6097,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 253,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-255",
@@ -5860,7 +6114,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 254,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-256",
@@ -5876,7 +6131,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 255,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-257",
@@ -5893,7 +6149,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 256,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "conference"
     },
     {
       "id": "pub-258",
@@ -5909,7 +6166,8 @@
       "links": [],
       "topic_status": "proposed",
       "source_index": 257,
-      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html"
+      "source_url": "https://www.uni-saarland.de/lehrstuhl/demberg/publications.html",
+      "publication_type": "other"
     }
   ],
   "topics": [
