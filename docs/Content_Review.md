@@ -14,14 +14,14 @@ The source includes a 2027 section. It is retained as supplied. The source also 
 |---|---:|---|
 | LLMs and Cognitive Modeling | 84 | Named in the meeting; scope to confirm |
 | Discourse | 70 | Named in the meeting |
-| Psycholinguistic Reading | 39 | Named in the meeting; scope to confirm |
+| Psycholinguistic Reading | 38 | Named in the meeting; scope to confirm |
 | Gestures | 9 | Tag identifier in the email example |
 | Multimodality | 22 | Tag identifier in the email example |
 | Pragmatics and Communication | 62 | Proposed addition |
-| Language Generation | 67 | Proposed addition |
-| Speech and Language | 39 | Proposed addition |
-| Language Resources and Tools | 47 | Proposed addition |
-| Other | 6 | Fallback specified in the email |
+| Language Generation | 68 | Proposed addition |
+| Speech and Language | 43 | Proposed addition |
+| Language Resources and Tools | 48 | Proposed addition |
+| Other | 1 | Fallback specified in the email |
 
 Counts overlap because papers can have several topics. Proposed additions separate pragmatics, language generation, speech/language studies, and resource papers that would otherwise fall into broad existing categories. `Other` remains the fallback specified in the email.
 
